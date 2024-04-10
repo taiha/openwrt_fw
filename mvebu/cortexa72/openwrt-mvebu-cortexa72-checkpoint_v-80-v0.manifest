@@ -1,4 +1,4 @@
-base-files - 1591~7c39a95a2f
+base-files - 1591~1931d3f3f7
 busybox - 1.36.1-r1
 ca-bundle - 20240203-r1
 cgi-io - 2022.08.10~901b0f04-r21
@@ -77,7 +77,7 @@ libubox20240329 - 2024.03.29~eb9bcb64-r1
 libubus20231128 - 2023.11.28~f84eb599-r1
 libuci20130104 - 2023.08.10~5781664d-r1
 libuclient20201210 - 2024.04.05~6c16331e-r1
-libucode20230711 - 2024.02.21~ba3855ae-r1
+libucode20230711 - 2024.04.07~5507654a-r1
 libudebug - 2023.12.06~6d3f51f9
 libudev-zero - 1.0.3-r1
 libusb-1.0-0 - 1.0.26-r3
