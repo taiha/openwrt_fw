@@ -1,5 +1,4 @@
-src-git packages https://github.com/openwrt/packages.git^83bdecf057f260a57b580ee9ddeeb39a8467d043
-src-git luci https://github.com/openwrt/luci.git^11819152de9751d1edbbeff0bb6d543217b5213a
-src-git routing https://github.com/openwrt/routing.git^0fed081486198212608bebe257590947e58dc0d8
-src-git telephony https://github.com/openwrt/telephony.git^22dd505025e0c39f32a99ba048662133bbeb4bb6
-src-git taiha https://github.com/taiha/taiha-pkgs.git^c17c04efb8ba265435d30fd80d522bb790a4def3
+src-git packages https://github.com/openwrt/packages.git^712e40370351da1cd80891befec5234a25fb5ec2
+src-git luci https://github.com/openwrt/luci.git^d90728d2c05da46fe5c2a1a1100a93f9a55730d7
+src-git routing https://github.com/openwrt/routing.git^0ff4ab0506f2ab09b829699bef6b8be8bf8f87f1
+src-git telephony https://github.com/openwrt/telephony.git^75acd1cdc29740a47454212cd48755b9abbd7a12
